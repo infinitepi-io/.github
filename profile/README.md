@@ -2,7 +2,7 @@
 
 Welcome to InfinitePi-io
 
-InfinitePi-io GitHub organization committed to embracing the infinite nature of pi as a metaphor for our aspiration to continually explore and master the limitless possibilities in the realm of software development and cloud services. Our mission is to push the boundaries of innovation and creativity while providing top-notch solutions to our clients and the community.
+InfinitePi-io GitHub organization committed to embracing the infinite nature of pi as a metaphor for our aspiration to continually explore and master the limitless possibilities in the realm of software development and cloud services.
 
 ## About Me:
 
