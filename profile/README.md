@@ -1,4 +1,4 @@
-# infinitePi-io
+# infinitepi-io
 
 Welcome to InfinitePi-io
 
